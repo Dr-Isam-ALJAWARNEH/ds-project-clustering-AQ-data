@@ -4,4 +4,6 @@ This project aims at comparing several data science clustering methods (such as 
 Collaborators:
 - Dr. Isam Al Jawarneh (Project supervisor)
   [Personal Website](https://isamaljawarneh.github.io/)
-- add your name here
+- Amna Alkinde
+- Manar anwer
+- Shruti Govinda  
