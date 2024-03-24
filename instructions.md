@@ -20,3 +20,5 @@
     > read more here:
         [Clustering performance evaluation](https://scikit-learn.org/stable/modules/clustering.html#clustering-performance-evaluation)
 
+- bonus if you could apply [geosilhouettes](https://pysal.org/esda/notebooks/geosilhouettes.html)
+
